@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        print(reverse(text: "Muna"))
+        print(reverse(text: "New branch"))
     }
     func reverse(text: String) -> String {
         return String(text.reversed())
