@@ -42,7 +42,6 @@
 		6A675CCA293C79E80075F34F = {
 			isa = PBXGroup;
 			children = (
-				6A675CEA293C86750075F34F /* Patient.swift */,
 				6A675CD5293C79E80075F34F /* DiaCare */,
 				6A675CD4293C79E80075F34F /* Products */,
 			);
@@ -59,6 +58,7 @@
 		6A675CD5293C79E80075F34F /* DiaCare */ = {
 			isa = PBXGroup;
 			children = (
+				6A675CEA293C86750075F34F /* Patient.swift */,
 				6A675CD6293C79E80075F34F /* AppDelegate.swift */,
 				6A675CD8293C79E80075F34F /* SceneDelegate.swift */,
 				6A675CDA293C79E80075F34F /* ViewController.swift */,
