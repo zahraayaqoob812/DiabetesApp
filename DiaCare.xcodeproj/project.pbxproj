@@ -14,6 +14,7 @@
 		6A675CE0293C79E90075F34F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A675CDF293C79E90075F34F /* Assets.xcassets */; };
 		6A675CE3293C79E90075F34F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A675CE1293C79E90075F34F /* LaunchScreen.storyboard */; };
 		6A675CEB293C86750075F34F /* Patient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A675CEA293C86750075F34F /* Patient.swift */; };
+		6AE8BDF6293C883E00DBC96D /* Doctor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE8BDF5293C883E00DBC96D /* Doctor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6A675CE2293C79E90075F34F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6A675CE4293C79E90075F34F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6A675CEA293C86750075F34F /* Patient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Patient.swift; sourceTree = "<group>"; };
+		6AE8BDF5293C883E00DBC96D /* Doctor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Doctor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		6A675CD5293C79E80075F34F /* DiaCare */ = {
 			isa = PBXGroup;
 			children = (
+				6AE8BDF5293C883E00DBC96D /* Doctor.swift */,
 				6A675CEA293C86750075F34F /* Patient.swift */,
 				6A675CD6293C79E80075F34F /* AppDelegate.swift */,
 				6A675CD8293C79E80075F34F /* SceneDelegate.swift */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6A675CDB293C79E80075F34F /* ViewController.swift in Sources */,
+				6AE8BDF6293C883E00DBC96D /* Doctor.swift in Sources */,
 				6A675CEB293C86750075F34F /* Patient.swift in Sources */,
 				6A675CD7293C79E80075F34F /* AppDelegate.swift in Sources */,
 				6A675CD9293C79E80075F34F /* SceneDelegate.swift in Sources */,
